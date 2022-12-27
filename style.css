@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  text-align: center;
+}
+html body {
+  height: 100%;
+}
+
+/*! +++++++++++   Birinci Bölüm +++++++++++++ */
+
+.main-section {
+  position: relative;
+  width: 100%;
+}
+
+.main-section__img1 {
+  background-image: url(https://www.looper.com/img/gallery/john-wick-4-5-will-be-missing-a-key-piece-of-talent/l-intro-1616532480.jpg);
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-head {
+  position: absolute;
+  top: 35%;
+  
+  text-align: center;
+  width: 100%;
+  font-size: 3rem;
+  color: rgb(230, 19, 54);
+}
+
+.section-head span {
+  /* border: 2px solid red; */
+  padding: 20px 40px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  outline-offset: 5px;
+  outline: 10px outset black;
+  font-family: "Anton", sans-serif;
+}
+
+.bilgi1 {
+  background-color: black;
+}
+
+.baslik1 h2 {
+  font-family: "Russo One", sans-serif;
+  padding-top: 30px;
+  color: rgb(6, 240, 26);
+}
+
+.par1 {
+  color: rgb(250, 2, 2);
+  padding: 50px 80px;
+}
+ 
+/*! +++++++++++ BÖLÜM İKİ +++++++++++ */
+
+.main-section__img2 {
+    background-image: url(https://playtusu.com/wp-content/uploads/2021/10/john-wick.jpg);
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+  }
+
+  /*! +++++++++++ BÖLÜM ÜÇ +++++++++++ */
+
+  .main-section__img3 {
+    background-image: url(https://media.bantmag.com/wp-content/uploads/2017/06/wick.jpg);
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+  }
+
+  /*! +++++++++++ BÖLÜM DÖRT +++++++++++ */
+  
+  .main-section__img4 {
+    background-image: url(https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/YSN9Q2WmkzY425BkjxdP6Y2h2t6NZ5.jpg);
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+
+/*! +++++++++++ BÖLÜM BEŞ +++++++++++ */
+
+.main-section__img5 {
+  background-color: black;
+   height: 100%;
+  /* background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center; */
+} 
+
+  
+.section-head2 {
+  position: absolute;
+  top: 35%;
+  text-align: center;
+  width: 100%;
+  font-size: 3rem;
+  color: rgb(230, 19, 54);
+}
+
+
